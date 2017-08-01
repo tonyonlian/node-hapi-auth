@@ -1,4 +1,4 @@
-####登陆demo
+####hapijs 框架的权限验证
 
 hapijs 框架的权限验证demo，实现接口如下
 
