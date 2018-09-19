@@ -3,7 +3,7 @@
 hapijs 框架的权限验证demo，实现接口如下
 
 
-```
+```node
 /  get  登陆页面
 /  post  提交登陆信息
 /register  get  注册页面
